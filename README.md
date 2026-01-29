@@ -10,6 +10,8 @@
 
 ## Projects
 
+- 🃏 **[leetties.com](https://leetties.com)** - Swipeable flashcards that teach algorithms for coding interviews
+- ⌨️ **[tabsvsspaces.sh](https://tabsvsspaces.sh)** - The eternal developer debate — cast your vote and put money where your mouth is
 - 🚦 **[educational-fixed-window-rate-limiter](https://github.com/pkafel/educational-fixed-window-rate-limiter)** - Learn how fixed window rate limiting works from the ground up
 - ⚡ **[rx-java-examples](https://github.com/pkafel/rx-java-examples)** - RxJava patterns demonstrated with Java 8
 - 🦅 **[falcon](https://github.com/pkafel/falcon)** - Simple JSON diff web application
