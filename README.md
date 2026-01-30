@@ -10,14 +10,15 @@
 
 > 15+ years building and scaling systems, bridging business and engineering and growing the next generation of technical leaders. Previously Staff Engineer at Shopify and Tech Lead at Groupon.
 
-## Projects
+## My Projects
 
 - 🃏 **[leetties.com](https://leetties.com)** - Swipeable flashcards that teach algorithms for coding interviews
-- ⌨️ **[tabsvsspaces.sh](https://tabsvsspaces.sh)** - Put money where your mouth is in one of the most pointless debates of our time
+- ⌨️  **[tabsvsspaces.sh](https://tabsvsspaces.sh)** - Put money where your mouth is in one of the most pointless debates of our time
 - 🦅 **[falcon](https://github.com/pkafel/falcon)** - Simple JSON diff web application
 - 🧩 **[interview-cracker](https://github.com/pkafel/interview-cracker)** - Questions and solutions for technical interviews
 - 🎤 **[talks-box](https://github.com/pkafel/talks-box)** - Curated list of worth-watching software development presentations
 - 📚 **[books-notes](https://github.com/pkafel/books-notes)** - Notes from courses, books and publications
+- 🎙️ **[Geekfest Berlin](https://meetup.com/Geekfest-Berlin)** - [Archived] Meetup about everything tech (from mobile to backend) with a stellar lineup of speakers
 
 ## GitHub Activity
 
