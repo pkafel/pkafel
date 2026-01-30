@@ -6,12 +6,12 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![RxJava](https://img.shields.io/badge/-RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-> 15+ years building and scaling systems, bridging business and engineering and growing the next generation of technical leaders. Previously Staff Engineer at Shopify Payments.
+> 15+ years building and scaling systems, bridging business and engineering and growing the next generation of technical leaders. Previously Staff Engineer at Shopify and Tech Lead at Groupon.
 
 ## Projects
 
 - 🃏 **[leetties.com](https://leetties.com)** - Swipeable flashcards that teach algorithms for coding interviews
-- ⌨️ **[tabsvsspaces.sh](https://tabsvsspaces.sh)** - The eternal developer debate — cast your vote and put money where your mouth is
+- ⌨️ **[tabsvsspaces.sh](https://tabsvsspaces.sh)** - Put money where your mouth is in one of the most pointless debates of our time
 - 🚦 **[educational-fixed-window-rate-limiter](https://github.com/pkafel/educational-fixed-window-rate-limiter)** - Learn how fixed window rate limiting works from the ground up
 - ⚡ **[rx-java-examples](https://github.com/pkafel/rx-java-examples)** - RxJava patterns demonstrated with Java 8
 - 🦅 **[falcon](https://github.com/pkafel/falcon)** - Simple JSON diff web application
