@@ -5,6 +5,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![RxJava](https://img.shields.io/badge/-RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 > 15+ years building and scaling systems, bridging business and engineering and growing the next generation of technical leaders. Previously Staff Engineer at Shopify and Tech Lead at Groupon.
 
