@@ -13,7 +13,6 @@
 - 🃏 **[leetties.com](https://leetties.com)** - Swipeable flashcards that teach algorithms for coding interviews
 - ⌨️ **[tabsvsspaces.sh](https://tabsvsspaces.sh)** - Put money where your mouth is in one of the most pointless debates of our time
 - 🚦 **[educational-fixed-window-rate-limiter](https://github.com/pkafel/educational-fixed-window-rate-limiter)** - Learn how fixed window rate limiting works from the ground up
-- ⚡ **[rx-java-examples](https://github.com/pkafel/rx-java-examples)** - RxJava patterns demonstrated with Java 8
 - 🦅 **[falcon](https://github.com/pkafel/falcon)** - Simple JSON diff web application
 - 🧩 **[interview-cracker](https://github.com/pkafel/interview-cracker)** - Questions and solutions for technical interviews
 - 🎤 **[talks-box](https://github.com/pkafel/talks-box)** - Curated list of worth-watching software development presentations
